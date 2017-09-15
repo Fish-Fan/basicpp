@@ -63,10 +63,10 @@ void bubbleSort(string a[],int size)
 }
 
 int main() {
-  // int array[] = {1,45,2,34};
+  int array[] = {1,45,2,34};
   // float array[] = {2.4,7.6,5.5,2.0};
   // char array[] = {'a','c','b','r'};
-  string array[] = {"hello","this","tom","alice"};
+  // string array[] = {"hello","this","tom","alice"};
   bubbleSort(array,4);
   for(int i = 0;i < 4;i++){
             std::cout << array[i] << '\n';
