@@ -1,3 +1,6 @@
+//编写程序，使用一个自定义函数求n个整数中的最大数和最小数，要求分别舒勇下面两种形式的函数形参实现
+//1)使用指针形参
+//2)使用引用形参
 #include "iostream"
 #include "vector"
 using namespace std;
